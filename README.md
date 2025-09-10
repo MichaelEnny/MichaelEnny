@@ -5,7 +5,7 @@
 -->
 
 I’m **Michael O. Eniolade**, a Data Scientist | AI/ML Engineer | Backend Python Developer.  
-Currently pursuing a **Ph.D. in Information Technology (AI & Cybersecurity focus)** at the University of the Cumberlands.  
+Currently pursuing a **Ph.D. in Information Technology (AI & Data Science)** at the University of the Cumberlands.  
 I love building **AI-powered systems, data pipelines, and scalable solutions** that transform complex data into actionable insights.  
 
 ---
